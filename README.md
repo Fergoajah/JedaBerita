@@ -14,13 +14,12 @@ JedaBerita adalah aplikasi Flutter sederhana yang dirancang untuk mengambil dan 
 * **Format Tanggal Lokal**: Tanggal diformat sesuai dengan lokal Indonesia (`id_ID`).
 * **Indikator Pemuatan**: Menampilkan indikator loading saat mengambil data berita.
 * **Penanganan Error**: Menampilkan pesan error jika data berita gagal dimuat.
-* **Desain Responsif**: Dibangun dengan Flutter, memastikan pengalaman yang konsisten di berbagai ukuran perangkat (mobile, desktop).
 
 ## API yang Digunakan
 
 Proyek ini menggunakan [Newsdata.io API](https://newsdata.io/) untuk mengambil artikel berita.
 Endpoint API yang digunakan adalah:
-`https://newsdata.io/api/1/latest?apikey=pub_0a00279b2d3448bd837e90f85d338314&country=id&language=id&category=crime,politics,world,top,education&timezone=Asia/Jakarta`
+`https://newsdata.io/api/1/latest?apikey=YOUR_API_KEY&country=id&language=id&category=crime,politics,world,top,education&timezone=Asia/Jakarta`
 
 **Catatan**: Kunci API tertanam langsung dalam file `news_service.dart` untuk kesederhanaan dalam contoh ini. Untuk aplikasi produksi, sangat disarankan untuk mengamankan kunci API Anda menggunakan variabel lingkungan atau metode yang lebih aman lainnya.
 
@@ -44,5 +43,5 @@ cd JedaBerita
 flutter pub get
 ```
 
-## Screen Shot
+## Screenshot
 ![Screenshot_2025-06-20-19-35-57-444_com example api_flutter2](https://github.com/user-attachments/assets/cad47030-e760-4359-a1b0-6ddb7fc5cd38)
