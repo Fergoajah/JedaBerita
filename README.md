@@ -1,8 +1,7 @@
-![Screenshot from 2025-06-20 19-43-18](https://github.com/user-attachments/assets/1df79b12-07fc-4237-b8cf-31ad754412f3)
-
 # JedaBerita
 
 Sebuah proyek Flutter baru yang menampilkan berita terbaru dari sebuah API.
+![Screenshot from 2025-06-20 19-43-18](https://github.com/user-attachments/assets/5f4c7669-1b66-4c86-8639-045c3b71e32c)
 
 ## About
 
