@@ -1,3 +1,5 @@
+![JedaBerita](https://github.com/user-attachments/assets/0db315d9-8c63-49e0-95f3-90999d414f73)
+
 # JedaBerita
 
 Sebuah proyek Flutter baru yang menampilkan berita terbaru dari sebuah API.
