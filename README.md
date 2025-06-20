@@ -1,4 +1,4 @@
-![JedaBerita](https://github.com/user-attachments/assets/0db315d9-8c63-49e0-95f3-90999d414f73)
+![Screenshot from 2025-06-20 19-43-18](https://github.com/user-attachments/assets/1df79b12-07fc-4237-b8cf-31ad754412f3)
 
 # JedaBerita
 
